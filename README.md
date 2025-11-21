@@ -18,6 +18,6 @@ I am a junior developer specialising in Game Development. My main focus is Unrea
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)]([https://your-portfolio-link.com](https://djmarleybusiness.wixsite.com/djmportfolio))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://djmarleybusiness.wixsite.com/djmportfolio)
 
 </div>
