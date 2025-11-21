@@ -1,6 +1,6 @@
 # About Me
 
-I am a junior developer specialising in Game Development. My main focus is Unreal and C++. I currently do work for three different startup companies with the main one working on a game called Mortalis as the Lead Developer. I am constantly expanding my skills and I am currently doing a bootcamp for software development.
+I am a junior developer specialising in Game Development. My main focus is Unreal and C++. I currently do work for three different startup companies with the main one working on a game called Mortalis as the Lead Developer. I am constantly expanding my skills and I am currently doing a bootcamp for software development. Please see my portfolio for all web and game projects.
 
 
 | **Category**       | **Technologies**                                                                 |
