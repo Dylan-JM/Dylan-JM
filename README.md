@@ -18,6 +18,8 @@ I am a junior developer specialising in Game Development. My main focus is Unrea
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://djmarleybusiness.wixsite.com/djmportfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00599C?style=for-the-badge)](https://djmarleybusiness.wixsite.com/djmportfolio)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/dylan-marley-a439bb1b8/))
 
 </div>
