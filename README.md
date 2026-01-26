@@ -17,28 +17,28 @@ I am a junior developer specialising in Game Development. My main focus is Unrea
 
 ## 🌐 Web Development
 **Front-End:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 **Back-End:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![AWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
 
 ## 🎮 Game Development
 **Game Engines:**  
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 
 **UI:**  
-![UI/UX](https://img.shields.io/badge/-UI/UX-1572B6?style=flat&logo=figma&logoColor=white)![HUD Design](https://img.shields.io/badge/-HUD%20Design-FF6F00?style=flat&logo=adobe&logoColor=white)![Menus](https://img.shields.io/badge/-Game%20Menus-00ADEF?style=flat&logo=react&logoColor=white)![Accessibility](https://img.shields.io/badge/-Accessibility-34A853?style=flat&logo=universalaccess&logoColor=white)
+![UI/UX](https://img.shields.io/badge/-UI/UX-1572B6?style=flat&logo=figma&logoColor=white) ![HUD Design](https://img.shields.io/badge/-HUD%20Design-FF6F00?style=flat&logo=adobe&logoColor=white) ![Menus](https://img.shields.io/badge/-Game%20Menus-00ADEF?style=flat&logo=react&logoColor=white) ![Accessibility](https://img.shields.io/badge/-Accessibility-34A853?style=flat&logo=universalaccess&logoColor=white)
 
 **Gameplay:**  
-![Core Mechanics](https://img.shields.io/badge/-Core%20Gameplay%20Mechanics-00599C?style=flat)![Combat Systems](https://img.shields.io/badge/-Combat%20Systems-FF0000?style=flat)![Gameplay Ability System](https://img.shields.io/badge/-Gameplay%20Ability%20System-764ABC?style=flat&logo=unrealengine&logoColor=white)![Locomotion](https://img.shields.io/badge/-Locomotion-00ADEF?style=flat)![Animation](https://img.shields.io/badge/-Animation%20Programming-FF6F00?style=flat&logo=adobe&logoColor=white)![AI Logic](https://img.shields.io/badge/-AI%20Logic-313131?style=flat)![Behaviour Trees](https://img.shields.io/badge/-Behaviour%20Trees-34A853?style=flat&logo=treehouse&logoColor=white)
+![Core Mechanics](https://img.shields.io/badge/-Core%20Gameplay%20Mechanics-00599C?style=flat) ![Combat Systems](https://img.shields.io/badge/-Combat%20Systems-FF0000?style=flat) ![Gameplay Ability System](https://img.shields.io/badge/-Gameplay%20Ability%20System-764ABC?style=flat&logo=unrealengine&logoColor=white) ![Locomotion](https://img.shields.io/badge/-Locomotion-00ADEF?style=flat) ![Animation](https://img.shields.io/badge/-Animation%20Programming-FF6F00?style=flat&logo=adobe&logoColor=white) ![AI Logic](https://img.shields.io/badge/-AI%20Logic-313131?style=flat) ![Behaviour Trees](https://img.shields.io/badge/-Behaviour%20Trees-34A853?style=flat&logo=treehouse&logoColor=white)
 
 **Backend / Online:**  
-![Networking](https://img.shields.io/badge/-Network%20Programming-FF6F00?style=flat&logo=socketdotio&logoColor=white)![Multiplayer](https://img.shields.io/badge/-Multiplayer-00ADEF?style=flat&logo=steam&logoColor=white)![Server-Side Rewind](https://img.shields.io/badge/-Server%20Side%20Rewind-232F3E?style=flat&logo=socketdotio&logoColor=white)![SteamOSS](https://img.shields.io/badge/-Steam%20Online%20Subsystem-000000?style=flat&logo=steam&logoColor=white)![EOS](https://img.shields.io/badge/-Epic%20Online%20Subsystem-313131?style=flat&logo=epicgames&logoColor=white)![AWS Servers](https://img.shields.io/badge/-AWS%20Dedicated%20Servers-FF9900?style=flat&logo=amazonaws&logoColor=white)![DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Networking](https://img.shields.io/badge/-Network%20Programming-FF6F00?style=flat&logo=socketdotio&logoColor=white) ![Multiplayer](https://img.shields.io/badge/-Multiplayer-00ADEF?style=flat&logo=steam&logoColor=white) ![Server-Side Rewind](https://img.shields.io/badge/-Server%20Side%20Rewind-232F3E?style=flat&logo=socketdotio&logoColor=white) ![SteamOSS](https://img.shields.io/badge/-Steam%20Online%20Subsystem-000000?style=flat&logo=steam&logoColor=white) ![EOS](https://img.shields.io/badge/-Epic%20Online%20Subsystem-313131?style=flat&logo=epicgames&logoColor=white) ![AWS Servers](https://img.shields.io/badge/-AWS%20Dedicated%20Servers-FF9900?style=flat&logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
 **Advanced:**  
-![VR/AR](https://img.shields.io/badge/-VR/AR-FF6F00?style=flat&logo=oculus&logoColor=white)![Optimization](https://img.shields.io/badge/-Optimization-313131?style=flat&logo=unrealengine&logoColor=white)
+![VR/AR](https://img.shields.io/badge/-VR/AR-FF6F00?style=flat&logo=oculus&logoColor=white) ![Optimization](https://img.shields.io/badge/-Optimization-313131?style=flat&logo=unrealengine&logoColor=white)
 
 ## Featured Projects
 
@@ -50,7 +50,7 @@ I am a junior developer specialising in Game Development. My main focus is Unrea
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00599C?style=for-the-badge)](https://djmarleybusiness.wixsite.com/djmportfolio)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00599C?style=for-the-badge)](https://portfolio-pi-ochre-49.vercel.app/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylan.james.marley@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-marley-a439bb1b8/)
 
